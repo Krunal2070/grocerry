@@ -1,7 +1,7 @@
 <?php
 /*------------------------------------------------------------------------------
   $Id$
-
+  
   AbanteCart, Ideal OpenSource Ecommerce Solution
   http://www.AbanteCart.com
 
@@ -27,7 +27,6 @@ if (version_compare(phpversion(), MIN_PHP_VERSION, '<') == true) {
 if (!function_exists('simplexml_load_file')) {
     exit("simpleXML functions are not available. Please contact your system administrator or host service provider.");
 }
-
 // Load Configuration
 // Real path (operating system web root) to the directory where abantecart is installed
 $root_path = dirname(__FILE__);
