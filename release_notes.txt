@@ -3,6 +3,7 @@ AbanteCart version 1.2.16
 In this release, we bring a few new features, such as one-page fast checkout, product collections, email templates, local delivery, and others.
 AbanteCart v1.2.16 also includes a number of improvements and fixes based on customer feedback.
 
+
 Core:
 - PHP v7.4 support
 - Webp image format support
